@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Your One Stop Provider for Technical Solutions",
-    "paragraph": "A leading telecommunications provider. We employ world class technologies to deliver outstanding outcomes"
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -78,29 +78,29 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Adebayo Oluwadairo",
-      "job": "CEO"
+      "name": "John Doe",
+      "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "McRichard Onunaku",
-      "job": "Operations Manager"
+      "name": "Mike Doe",
+      "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Yimika Ilori",
-      "job": "Technical Lead"
+      "name": "Jane Doe",
+      "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Idaresit Ayeni",
-      "job": "HR Manager"
+      "name": "Karen Doe",
+      "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "174a Moshood Olugbani Street, Off Ligali Ayorinde, Victoria Island Lagos.",
-    "phone": "+2348055969528 ",
-    "email": "info@erltelecoms.com"
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com"
   },
   "Social": {
     "facebook": "fb.com",
