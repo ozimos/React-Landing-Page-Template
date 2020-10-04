@@ -6,12 +6,9 @@ export default function NavItem({ children, href, ...rest }: LinkProps) {
   return (
     <Link
       href={href}
-      _hover={{
-        /* @ts-ignore */
-        "& p": {
-          _after: {
-            w: "100%",
-          },
+      sx={{
+        "&:hover>p::after": {
+          width: "100%",
         },
       }}
       {...rest}
