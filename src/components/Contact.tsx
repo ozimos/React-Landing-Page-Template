@@ -9,7 +9,7 @@ import ContactForm from "./ContactForm";
 
 export default function Contact({ data }) {
   return (
-    <Section variant="blue-grad" color="white" pb={50}>
+    <Section variant="blue-grad" color="white" pb={50} id="contact">
       <SectionTitle variant="gray-left">Get In Touch</SectionTitle>
       <Grid
         templateColumns={["1fr", "1fr", "6fr 2fr"]}

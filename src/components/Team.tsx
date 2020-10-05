@@ -5,7 +5,7 @@ import SectionTitle from "./SectionTitle";
 
 export default function Team({ data }) {
   return (
-    <Section>
+    <Section id="team">
       <VStack >
         <SectionTitle>Meet the Team</SectionTitle>
         <Text  fontSize="xl" color="erl_grey.300" w="60%" textAlign="center">

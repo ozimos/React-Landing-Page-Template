@@ -16,7 +16,7 @@ import Section from "./Section";
 
 export default function About({ data }) {
   return (
-    <Section>
+    <Section id="about">
       <Grid gridTemplateColumns={["1fr", "repeat(2, 1fr)"]} gridGap={10}>
         <AspectRatio ratio={1} maxH="400px" gridRow={["1/2", "1/2", "1/3"]}>
           <Image

@@ -6,7 +6,7 @@ import SectionTitle from "./SectionTitle";
 
 export default function Features({ data }) {
   return (
-    <Section variant="grey">
+    <Section variant="grey" id="features">
       <SectionTitle>Features</SectionTitle>
       <SimpleGrid columns={[1,2,3,4]}>
         {data

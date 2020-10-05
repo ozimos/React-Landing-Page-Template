@@ -108,7 +108,7 @@ export default function Navigation() {
       bgColor="white"
       zIndex={2}
     >
-      <Link href="#page-top">
+      <Link href="#header">
         <HStack>
           <ERLIcon boxSize={10} /> <Box as={ERLLogo} flexShrink={3} />
         </HStack>

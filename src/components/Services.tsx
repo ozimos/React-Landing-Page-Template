@@ -17,7 +17,7 @@ export type TServiceItems = {
 export default function Services({ data }) {
   const serviceItems = zipIcons<TServiceItems>(data, serviceIcons);
   return (
-    <Section variant="blue-grad">
+    <Section variant="blue-grad" id="services">
       <VStack color="white">
         <SectionTitle variant="gray">Our Services</SectionTitle>
         <Text mb="60px" fontSize="lg">

@@ -5,7 +5,7 @@ import SectionTitle from "./SectionTitle";
 
 export default function Testimonials({ data }) {
   return (
-    <Section variant="grey">
+    <Section variant="grey" id="testimonials">
       <SectionTitle mb="70px">What our clients say</SectionTitle>
 
       <Flex justify="space-between" wrap="wrap">
