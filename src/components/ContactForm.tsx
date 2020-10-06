@@ -53,6 +53,7 @@ export default function ContactForm() {
           name="accessKey"
           value={process.env.NEXT_PUBLIC_EMAIL_KEY}
         />
+        <input type="hidden" name="replyTo" value="@" />
         <Input type="text" name="honeypot" d="none" />
         <Flex wrap="wrap" justify="space-between" mb="20px">
           <FormControl isRequired>

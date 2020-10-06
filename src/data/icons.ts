@@ -9,7 +9,11 @@ import {
   FaChartPie,
   FaFacebookF,
   FaTwitter,
-  FaLinkedinIn
+  FaLinkedinIn, 
+  FaComment,
+  FaBullhorn,
+  FaUsers,
+  FaMagic
 } from "react-icons/fa";
 
 export type IZipLoop = {
@@ -55,4 +59,11 @@ export const serviceIcons = {
   language: FaLanguage,
   plane: FaPlane,
   pieChart: FaChartPie,
+};
+
+export const featureIcons = {
+  comment: FaComment,
+  bullhorn: FaBullhorn,
+  users: FaUsers,
+  magic: FaMagic,
 };

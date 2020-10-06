@@ -10,32 +10,6 @@ import Contact from "../components/Contact";
 import Social from "../components/Social";
 import Footer from "../components/Footer";
 import JsonData from "../data/data.json";
-import { library } from "@fortawesome/fontawesome-svg-core";
-import { fab } from "@fortawesome/free-brands-svg-icons";
-import { faComment } from "@fortawesome/free-regular-svg-icons";
-import {
-  faUsers,
-  faPlane,
-  faMagic,
-  faLanguage,
-  faCloudDownloadAlt,
-  faChartPie,
-  faCartArrowDown,
-  faBullhorn,
-} from "@fortawesome/free-solid-svg-icons";
-
-library.add(
-  fab,
-  faComment,
-  faBullhorn,
-  faUsers,
-  faMagic,
-  faCartArrowDown,
-  faCloudDownloadAlt,
-  faLanguage,
-  faPlane,
-  faChartPie
-);
 
 export default function App(props) {
   return (

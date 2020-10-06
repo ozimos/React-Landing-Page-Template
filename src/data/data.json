@@ -78,13 +78,13 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Abayomi",
-      "job": "Director"
+      "name": "Adebayo Oluwadairo",
+      "job": "CEO"
     },
     {
       "img": "img/team/02.jpg",
       "name": "McRichard Onunaku",
-      "job": "Managing Director"
+      "job": "Operations Manager"
     },
     {
       "img": "img/team/03.jpg",
@@ -98,8 +98,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+23479379374",
+    "address": "174a Moshood Olugbani Street, Off Ligali Ayorinde, Victoria Island Lagos.",
+    "phone": "+2348055969528 ",
     "email": "info@erltelecoms.com"
   },
   "Social": {
@@ -107,26 +107,22 @@
     "twitter": "twitter.com",
     "linkedIn": "linkedIn.com"
   },
-  "Features": [
-    {
-      "icon": "far comment",
+  "Features": {
+    "comment": {
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
-    {
-      "icon": "fas bullhorn",
+    "bullhorn": {
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
-    {
-      "icon": "fas users",
+    "users": {
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
-    {
-      "icon": "fas magic",
+    "magic": {
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
-  ]
+  }
 }
